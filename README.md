@@ -36,4 +36,7 @@ Training Results
 4.Display the total amount on the screen in real-time.
 **Example of the result:**
 
-![alt text](output_sample.jpg)
+![alt text](result_output.jpg)
+![alt text](result_output1.jpg)
+![alt text](result_output2.jpg)
+![alt text](result_output3.jpg)
